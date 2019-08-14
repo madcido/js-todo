@@ -1,20 +1,13 @@
-The Odin Project - JavaScript project: To-do List
+# To-Do List
+The Odin Project, Javascript Course: Build a to-do list
 
-Assignment: https://www.theodinproject.com/courses/javascript/lessons/todo-list
-
-Authors: <a href="https://github.com/btuerker">Burhan Tuerker</a> / <a href="https://github.com/madcido">Fabio Carmo</a>
-
-Preview: 
-
+## Live preview
 https://raw.githack.com/madcido/js-todo/master/index.html
 
-https://madcido.github.io/js-todo/
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine.
 
-
-
-## Installation Guide
 ### Prerequisities
-System dependencies:
 ```
 $ node -v
   v10.15.3
@@ -26,19 +19,21 @@ $ webpack -v
   4.34.0
 ```
 
-#### Local setup
-##### Clone project
+### Installing
+Clone the project:
 ```
-$ git clone https://github.com/btuerker/js-todo.git
+$ git clone https://github.com/madcido/js-todo.git
 $ cd ./js-todo
 ```
-##### Install dependencies
+Install dependencies:
 ```
 $ npm install
 ```
-##### Build project
+Build the project:
 ```
 $ webpack
 ```
 
-Now you can check the index.html file with your best browser.
+## Authors
+* **<a href="https://github.com/btuerker">Burhan Tuerker</a>**
+* **<a href="https://github.com/madcido">Fabio Carmo</a>**
